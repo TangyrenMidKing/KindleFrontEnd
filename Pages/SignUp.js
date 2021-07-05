@@ -26,6 +26,7 @@ function SignUp()
                 <input type="email" id="email" placeholder='email'></input><br/>
                 <input type="password" id="password" placeholder='password'></input><br/>
                 <input type="password" id="confirm_password" placeholder='confirm password'></input><br/>
+                <button class='bnt' id='signup_bnt'>Sign Up</button><br/>
             </div>
         </div>
     );
